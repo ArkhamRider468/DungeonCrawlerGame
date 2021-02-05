@@ -1383,3 +1383,85 @@ Make sure 'BP_BaseCopyMD_C' has been compiled for  Update Stamina
 [2021.02.05-04.10.05:239][381]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/BP_BaseCopyMDB302330A4983405526E58AAA8A96D2BF.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset'
 [2021.02.05-04.10.05:296][381]AssetCheck: New page: Asset Save: BP_BaseCopyMD
 [2021.02.05-04.10.05:296][381]LogContentValidation: Display: Validating Blueprint /Game/BP_BaseCopyMD.BP_BaseCopyMD
+[2021.02.05-04.14.06:284][  5]BlueprintLog: New page: Compile BP_BaseCopyMD
+[2021.02.05-04.14.06:462][  5]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.02.05-04.14.07:426][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BaseCopyMD" FILE="../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset" SILENT=true
+[2021.02.05-04.14.07:679][ 33]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/BP_BaseCopyMD92C576A7451D8F93D35C07921FE66C97.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset'
+[2021.02.05-04.14.07:715][ 33]AssetCheck: New page: Asset Save: BP_BaseCopyMD
+[2021.02.05-04.14.07:715][ 33]LogContentValidation: Display: Validating Blueprint /Game/BP_BaseCopyMD.BP_BaseCopyMD
+[2021.02.05-04.14.25:711][824]BlueprintLog: New page: Compile BP_BaseCopyMD
+[2021.02.05-04.14.25:897][824]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2021.02.05-04.14.26:969][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BaseCopyMD" FILE="../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset" SILENT=true
+[2021.02.05-04.14.27:230][856]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/BP_BaseCopyMD323311CA4066F308E763059951AA9346.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset'
+[2021.02.05-04.14.27:266][856]AssetCheck: New page: Asset Save: BP_BaseCopyMD
+[2021.02.05-04.14.27:266][856]LogContentValidation: Display: Validating Blueprint /Game/BP_BaseCopyMD.BP_BaseCopyMD
+[2021.02.05-04.14.30:951][130]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.05-04.14.30:962][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.05-04.14.30:962][130]PIE: New page: PIE session: FirstPersonExampleMap (Feb 4, 2021, 4:14:30 PM)
+[2021.02.05-04.14.30:992][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.05-04.14.31:007][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015282s)
+[2021.02.05-04.14.31:009][130]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.05-04.14.31:009][130]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2021.02.05-04.14.31:009][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017024s)
+[2021.02.05-04.14.31:055][130]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.02.05-04.14.31:058][130]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.05-04.14.31:059][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.05-04.14.31:059][130]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.05-04.14.31:059][130]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.05-04.14.31:072][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.05-04.14.31:072][130]LogAudioMixer: Display: 1: FrontRight
+[2021.02.05-04.14.31:099][130]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.05-04.14.31:099][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.05-04.14.31:099][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.05-04.14.31:099][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.05-04.14.31:100][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.05-04.14.31:100][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.05-04.14.31:100][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.05-04.14.31:127][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.05-04.14.31:127][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.05-04.14.31:127][130]LogInit: FAudioDevice initialized.
+[2021.02.05-04.14.31:127][130]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2021.02.05-04.14.31:140][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.05-04.14.31:143][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.04-22.14.31
+[2021.02.05-04.14.31:144][130]LogWorld: Bringing up level for play took: 0.003270
+[2021.02.05-04.14.31:144][130]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.05-04.14.31:151][130]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.05-04.14.31:152][130]PIE: Server logged in
+[2021.02.05-04.14.31:153][130]PIE: Play in editor total start time 0.193 seconds.
+[2021.02.05-04.14.32:125][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-04.14.32:125][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.05-04.14.32:126][193]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.05-04.14.32:126][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-04.14.32:139][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.05-04.14.32:148][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-04.14.32:189][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.05-04.14.32:190][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-04.14.32:191][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-04.14.32:218][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-04.14.32:225][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.02.05-04.14.32:261][194]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.05-04.15.37:734][643]BlueprintLog: New page: Compile BP_BaseCopyMD
+[2021.02.05-04.15.37:932][643]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2021.02.05-04.15.38:848][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BaseCopyMD" FILE="../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset" SILENT=true
+[2021.02.05-04.15.39:082][667]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/BP_BaseCopyMD20BF153740E8D284FAE35F91D36D845F.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset'
+[2021.02.05-04.15.39:113][667]AssetCheck: New page: Asset Save: BP_BaseCopyMD
+[2021.02.05-04.15.39:113][667]LogContentValidation: Display: Validating Blueprint /Game/BP_BaseCopyMD.BP_BaseCopyMD
+[2021.02.05-04.15.53:719][995]BlueprintLog: New page: Compile BP_BaseCopyMD
+[2021.02.05-04.15.53:890][995]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2021.02.05-04.15.54:849][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BaseCopyMD" FILE="../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset" SILENT=true
+[2021.02.05-04.15.55:083][ 25]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/BP_BaseCopyMD35EBB3014D0232A273204BA15670F0F9.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/BP_BaseCopyMD.uasset'
+[2021.02.05-04.15.55:117][ 25]AssetCheck: New page: Asset Save: BP_BaseCopyMD
+[2021.02.05-04.15.55:117][ 25]LogContentValidation: Display: Validating Blueprint /Game/BP_BaseCopyMD.BP_BaseCopyMD
+[2021.02.05-04.16.04:118][477]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2021.02.05-04.16.04:159][477]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/FirstPersonExampleMap1BD0B2C3466AF6180BCC71904DB4765A.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/Maps/FirstPersonExampleMap.umap'
+[2021.02.05-04.16.06:090][477]LogSavePackage: Moving '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Saved/FirstPersonExampleMap_BuiltDataB589CB554A35F9D5D4C6FEB6858C01D8.tmp' to '../../../../Users/Admin/Desktop/Projects/Unreal/DungeonCrawlerGame/DungeonCrawler/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.02.05-04.16.06:152][477]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.05-04.16.06:152][477]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.02.05-04.16.06:152][477]LogContentValidation: Display: Validating World /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
