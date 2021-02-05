@@ -1465,3 +1465,68 @@ Make sure 'BP_BaseCopyMD_C' has been compiled for  Update Stamina
 [2021.02.05-04.16.06:152][477]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.05-04.16.06:152][477]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.02.05-04.16.06:152][477]LogContentValidation: Display: Validating World /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.02.05-04.17.02:285][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.05-04.17.02:295][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.05-04.17.02:296][775]PIE: New page: PIE session: FirstPersonExampleMap (Feb 4, 2021, 4:17:02 PM)
+[2021.02.05-04.17.02:327][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.05-04.17.02:341][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014667s)
+[2021.02.05-04.17.02:342][775]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.02.05-04.17.02:343][775]LogPlayLevel: PIE: World Init took: (0.002447s)
+[2021.02.05-04.17.02:343][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017501s)
+[2021.02.05-04.17.02:397][775]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.02.05-04.17.02:405][775]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.05-04.17.02:405][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.05-04.17.02:405][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.05-04.17.02:406][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.05-04.17.02:406][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.05-04.17.02:419][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.05-04.17.02:419][775]LogAudioMixer: Display: 1: FrontRight
+[2021.02.05-04.17.02:446][775]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.02.05-04.17.02:446][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.05-04.17.02:446][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.05-04.17.02:446][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.05-04.17.02:447][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.05-04.17.02:447][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.05-04.17.02:447][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.05-04.17.02:471][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.05-04.17.02:471][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.05-04.17.02:471][775]LogInit: FAudioDevice initialized.
+[2021.02.05-04.17.02:471][775]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2021.02.05-04.17.02:484][775]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.05-04.17.02:487][775]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.02.04-22.17.02
+[2021.02.05-04.17.02:487][775]LogWorld: Bringing up level for play took: 0.003256
+[2021.02.05-04.17.02:488][775]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.02.05-04.17.02:494][775]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.02.05-04.17.02:495][775]PIE: Server logged in
+[2021.02.05-04.17.02:497][775]PIE: Play in editor total start time 0.203 seconds.
+[2021.02.05-04.17.05:681][998]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1450.0
+[2021.02.05-04.17.05:729][  1]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 950.0
+[2021.02.05-04.17.07:290][112]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1400.0
+[2021.02.05-04.17.10:933][349]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1350.0
+[2021.02.05-04.17.13:554][514]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1300.0
+[2021.02.05-04.17.16:068][682]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 900.0
+[2021.02.05-04.17.18:646][848]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1250.0
+[2021.02.05-04.17.21:704][ 53]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 850.0
+[2021.02.05-04.17.22:974][140]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 800.0
+[2021.02.05-04.17.24:269][225]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1200.0
+[2021.02.05-04.17.24:269][225]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 750.0
+[2021.02.05-04.17.28:002][468]LogBlueprintUserMessages: [EnemyRangeBVT_3] EnemyRangeBVT_3Health: 700.0
+[2021.02.05-04.17.28:349][493]LogBlueprintUserMessages: [EnemyMeleeBVT_2] EnemyMeleeBVT_2Health: 1150.0
+[2021.02.05-04.17.29:913][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-04.17.29:913][591]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.02.05-04.17.29:913][591]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.05-04.17.29:914][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-04.17.29:928][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.05-04.17.29:937][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.05-04.17.29:976][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.05-04.17.29:977][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-04.17.29:978][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.05-04.17.30:013][591]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2021.02.05-04.17.30:051][592]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.05-04.19.00:786][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collaborators/Rashaun_Sanders/Blueprints/BP_Base.BP_Base
