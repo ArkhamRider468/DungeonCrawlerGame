@@ -1,0 +1,737 @@
+﻿Log file open, 03/13/21 02:20:33
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DungeonCrawler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.914972
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.13-08.20.43:483][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.13-08.20.43:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:484][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:498][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-08.20.43:498][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:498][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-08.20.43:499][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-08.20.43:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.13-08.20.43:501][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-08.20.43:501][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.13-08.20.43:501][  0]LogHAL: Display: Platform has ~ 8 GB [8522743808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.13-08.20.43:501][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.13-08.20.43:501][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-08.20.43:501][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.13-08.20.43:502][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-08.20.43:503][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-08.20.43:504][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-08.20.43:505][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:506][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-08.20.43:506][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-08.20.43:506][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-08.20.43:506][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.13-08.20.43:506][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.13-08.20.43:506][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.13-08.20.43:506][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.13-08.20.43:507][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.13-08.20.43:507][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.13-08.20.43:507][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.13-08.20.43:507][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.03.13-08.20.43:507][  0]LogInit: Computer: DESKTOP-T9TO912
+[2021.03.13-08.20.43:507][  0]LogInit: User: moore
+[2021.03.13-08.20.43:507][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.03.13-08.20.43:507][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.13-08.20.43:507][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.03.13-08.20.43:507][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.13-08.20.43:507][  0]LogMemory: Process Physical Memory: 133.54 MB used, 133.54 MB peak
+[2021.03.13-08.20.43:507][  0]LogMemory: Process Virtual Memory: 117.18 MB used, 117.18 MB peak
+[2021.03.13-08.20.43:507][  0]LogMemory: Physical Memory: 4398.68 MB used,  3729.24 MB free, 8127.92 MB total
+[2021.03.13-08.20.43:507][  0]LogMemory: Virtual Memory: 134207168.00 MB used,  10562.28 MB free, 134217728.00 MB total
+[2021.03.13-08.20.43:528][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.13-08.20.43:609][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.13-08.20.43:611][  0]LogInit: Using OS detected language (en-US).
+[2021.03.13-08.20.43:611][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.13-08.20.43:634][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.13-08.20.44:361][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.13-08.20.44:409][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.13-08.20.44:483][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.13-08.20.44:483][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.13-08.20.45:214][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.13-08.20.45:214][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.13-08.20.45:214][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.13-08.20.45:850][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.03.13-08.20.45:850][  0]LogD3D11RHI:       1977/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.13-08.20.45:867][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.13-08.20.45:867][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.13-08.20.45:867][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.13-08.20.45:896][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.13-08.20.45:897][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.13-08.20.45:897][  0]LogWindows: EnumDisplayDevices:
+[2021.03.13-08.20.45:897][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2021.03.13-08.20.45:898][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.03.13-08.20.45:899][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.03.13-08.20.45:900][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.03.13-08.20.45:901][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.13-08.20.45:901][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.03.13-08.20.45:901][  0]LogD3D11RHI:   Driver Version: 431.07 (internal:26.21.14.3107, unified:431.07)
+[2021.03.13-08.20.45:901][  0]LogD3D11RHI:      Driver Date: 6-5-2019
+[2021.03.13-08.20.45:901][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.03.13-08.20.46:092][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.13-08.20.46:092][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.13-08.20.46:092][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.13-08.20.46:204][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.13-08.20.46:210][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.13-08.20.48:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.13-08.20.48:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.13-08.20.48:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.13-08.20.48:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.13-08.20.48:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.13-08.20.48:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.13-08.20.48:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.13-08.20.48:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.13-08.20.49:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.13-08.20.49:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.13-08.20.49:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.13-08.20.49:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.13-08.20.49:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.13-08.20.49:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.13-08.20.49:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.13-08.20.49:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.13-08.20.49:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.13-08.20.49:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.13-08.20.49:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.13-08.20.49:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.13-08.20.49:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.13-08.20.49:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.13-08.20.49:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.13-08.20.49:496][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.13-08.20.49:522][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.13-08.20.49:939][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.13-08.20.49:940][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Intermediate/Shaders/WorkingDirectory/37516/).
+[2021.03.13-08.20.49:940][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/moore/AppData/Local/Temp/UnrealShaderWorkingDir/AF0FF20549A0BD007ACFDB8808069EEB/'.
+[2021.03.13-08.20.49:941][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.13-08.20.49:941][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.13-08.20.52:132][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.13-08.20.52:235][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/moore/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.13-08.20.52:235][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/moore/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.13-08.20.52:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.13-08.20.52:789][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.13-08.20.52:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-08.20.52:790][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.13-08.20.52:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.13-08.20.52:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-08.20.52:825][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.13-08.20.53:541][  0]LogDerivedDataCache: Speed tests for C:/Users/moore/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.71 seconds
+[2021.03.13-08.20.53:541][  0]LogDerivedDataCache: Display: Performance to C:/Users/moore/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=244.80MBs, RandomWriteSpeed=1.31MBs. Assigned SpeedClass 'Local'
+[2021.03.13-08.20.53:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/moore/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.13-08.20.53:542][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.13-08.20.53:542][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.13-08.20.53:689][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.13-08.20.53:690][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.13-08.20.53:917][  0]LogAssetRegistry: FAssetRegistry took 0.0068 seconds to start up
+[2021.03.13-08.20.54:691][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-08.20.54:691][  0]LogInit: Active device profile: [000002B5D59EFE00][000002B5D3BC7900 49] Windows
+[2021.03.13-08.20.54:691][  0]LogInit: Profiles: [000002B5D59EFE00][000002B5D3BC7900 49] Windows, [000002B5D59A4200][000002B5D3BCBA40 49] WindowsNoEditor, [000002B5D59EC300][000002B5D4529B80 49] WindowsServer, [000002B5D59A7800][000002B5D452DCC0 49] WindowsClient, [000002B5D59EF600][000002B5D4530140 49] IOS, [000002B5D59A4A00][000002B5D45382C0 49] iPadAir, [000002B5D59EC700][000002B5D453C440 49] iPadAir2, [000002B5D5949500][000002B5D454A700 49] IPadPro, [000002B5D5949600][000002B5D4540740 49] iPadAir3, [000002B5D59EF300][000002B5D45548C0 49] iPadAir4, [000002B5D5948800][000002B5D4558A40 49] iPadMini2, [000002B5D59ECA00][000002B5D455CBC0 49] iPadMini3, [000002B5D594A200][000002B5D4560D40 49] iPadMini4, [000002B5D59EEE00][000002B5D4564EC0 49] iPadMini5, [000002B5D59A7A00][000002B5D456D180 49] iPhone6, [000002B5D59A5100][000002B5D45691C0 49] iPodTouch6, [000002B5D594A500][000002B5D4575480 49] iPhone7, [000002B5D5948400][000002B5D45714C0 49] iPodTouch7, [000002B5D59A6A00][000002B5D4579640 49] iPhone5S, [000002B5D594BD00][000002B5D457D7C0 49] iPhone6Plus, [000002B5D59A7200][000002B5D4581940 49] iPhone6S, [000002B5D5949000][000002B5D4585AC0 49] iPhone6SPlus, [000002B5D59A7500][000002B5D4535C00 49] iPhone7Plus, [000002B5D5948200][000002B5D4589D40 49] iPhoneSE, [000002B5D59A6E00][000002B5D458C1C0 49] iPhone8, [000002B5D594A100][000002B5D4594340 49] iPhone8Plus, [000002B5D59A5B00][000002B5D45984C0 49] iPhoneX, [000002B5D594AF00][000002B5D459C640 49] iPhoneXS, [000002B5D59A6700][000002B5D45A07C0 49] iPhoneXSMax, [000002B5D594B800][000002B5D45A4940 49] iPhoneXR, [000002B5D59A6C00][000002B5D45A8AC0 49] iPhone11, [000002B5D5949100][000002B5D45ACC40 49] iPhone11Pro, [000002B5D59A7B00][000002B5D45B0DC0 49] iPhone11ProMax, [000002B5D594B400][000002B5D45B4F40 49] iPhoneSE2, [000002B5D59A6900][000002B5D45B90C0 49] iPhone12Mini, [000002B5D594AD00][000002B5D45BD240 49] iPhone12, [000002B5D59A6F00][000002B5D45C13C0 49] iPhone12Pro, [000002B5D5949800][000002B5D45C5540 49] iPhone12ProMax, [000002B5D59A6B00][000002B5D45C96C0 49] iPadPro105, [000002B5D594BE00][000002B5D45CD840 49] iPadPro129, [000002B5D59A6600][000002B5D45D19C0 49] iPadPro97, [000002B5D5948D00][000002B5D45D5B40 49] iPadPro2_129, [000002B5D59A4900][000002B5D4591C80 49] iPad5, [000002B5D594BC00][000002B5D45D8100 49] iPad6, [000002B5D59A7C00][000002B5D45DC240 49] iPad7, [000002B5D5949900][000002B5D45E43C0 49] iPad8, [000002B5D59A4E00][000002B5D45E8540 49] iPadPro11, [000002B5D594B600][000002B5D45EC6C0 49] iPadPro2_11, [000002B5D59A7D00][000002B5D45F0840 49] iPadPro3_129, [000002B5D594BA00][000002B5D45F49C0 49] iPadPro4_129, [000002B5D59A7000][000002B5D45F8B40 49] AppleTV, [000002B5D5949F00][000002B5D45FCCC0 49] AppleTV4K, [000002B5D59A5D00][000002B5D4600E40 49] TVOS, [000002B5D594B200][000002B5D4604FC0 49] Mac, [000002B5D59A4100][000002B5D4609140 49] MacClient, [000002B5D594B500][000002B5D460D2C0 49] MacNoEditor, [000002B5D59A6200][000002B5D4611440 49] MacServer, [000002B5D594B100][000002B5D46155C0 49] Linux, [000002B5D59A7300][000002B5D4619740 49] LinuxNoEditor, [000002B5D5948500][000002B5D461D8C0 49] LinuxAArch64NoEditor, [000002B5D59A4F00][000002B5D4621A40 49] LinuxClient, [000002B5D594AB00][000002B5D4625BC0 49] LinuxAArch64Client, [000002B5D59A4D00][000002B5D45E1D00 49] LinuxServer, [000002B5D5949200][000002B5D4628180 49] LinuxAArch64Server, [000002B5D59A4600][000002B5D462C2C0 49] Android, [000002B5D5A34600][000002B5D4630400 49] Android_Low, [000002B5D59ED100][000002B5D4638580 49] Android_Mid, [000002B5D5A34700][000002B5D463C700 49] Android_High, [000002B5D59EC900][000002B5D4640880 49] Android_Default, [000002B5D5A34100][000002B5D4644A00 49] Android_Adreno4xx, [000002B5D59EE500][000002B5D4648B80 49] Android_Adreno5xx_Low, [000002B5D5A35C00][000002B5D464CD00 49] Android_Adreno5xx, [000002B5D59EC800][000002B5D4650E80 49] Android_Adreno6xx, [000002B5D5A34300][000002B5D4655000 49] Android_Adreno6xx_Vulkan, [000002B5D59EF900][000002B5D4659180 49] Android_Mali_T6xx, [000002B5D5A34A00][000002B5D465D300 49] Android_Mali_T7xx, [000002B5D59EDC00][000002B5D4661480 49] Android_Mali_T8xx, [000002B5D5A34200][000002B5D4665600 49] Android_Mali_G71, [000002B5D59EC600][000002B5D4669780 49] Android_Mali_G72, [000002B5D5A35E00][000002B5D466D900 49] Android_Mali_G72_Vulkan, [000002B5D59EEC00][000002B5D4671A80 49] Android_Mali_G76, [000002B5D5A35A00][000002B5D4675C00 49] Android_Mali_G76_Vulkan, [000002B5D59EC400][000002B5D4635D40 49] Android_Mali_G77, [000002B5D5A34900][000002B5D46781C0 49] Android_Mali_G77_Vulkan, [000002B5D59EDE00][000002B5D467C300 49] Android_Vulkan_SM5, [000002B5D59A5E00][000002B5D4680440 49] Android_PowerVR_G6xxx, [000002B5D5948600][000002B5D46885C0 49] Android_PowerVR_GT7xxx, [000002B5D59A4500][000002B5D468C740 49] Android_PowerVR_GE8xxx, [000002B5D594AC00][000002B5D46908C0 49] Android_PowerVR_GM9xxx, [000002B5D59A7600][000002B5D4694A40 49] Android_PowerVR_GM9xxx_Vulkan, [000002B5D5948900][000002B5D4698BC0 49] Android_TegraK1, [000002B5D59A7700][000002B5D469CD40 49] Android_Unknown_Vulkan, [000002B5D5948C00][000002B5D46A0EC0 49] Lumin, [000002B5D59A5700][000002B5D46A5040 49] Lumin_Desktop, [000002B5D5949400][000002B5D46A91C0 49] HoloLens, 
+[2021.03.13-08.20.55:535][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.13-08.20.55:535][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.13-08.20.55:535][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.13-08.20.55:535][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.13-08.20.55:535][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.13-08.20.55:887][  0]LogNetVersion: DungeonCrawler 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 51160509)
+[2021.03.13-08.20.59:856][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.511645 seconds
+[2021.03.13-08.20.59:869][  0]LogUObjectArray: 16663 objects as part of root set at end of initial load.
+[2021.03.13-08.20.59:869][  0]LogUObjectAllocator: 4164480 out of 0 bytes used by permanent object pool.
+[2021.03.13-08.20.59:869][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.13-08.21.01:111][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.13-08.21.01:120][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.13-08.21.01:342][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.01:342][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.01:349][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.01:356][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.01:370][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.01:394][  0]LogUProjectInfo: Found projects:
+[2021.03.13-08.21.02:271][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.13-08.21.02:318][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-08.21.02:318][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-08.21.02:480][  0]LogCollectionManager: Loaded 0 collections in 0.024797 seconds
+[2021.03.13-08.21.02:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Saved/Collections/' took 0.00s
+[2021.03.13-08.21.02:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Content/Developers/moore/Collections/' took 0.00s
+[2021.03.13-08.21.02:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Content/Collections/' took 0.00s
+[2021.03.13-08.21.02:622][  0]LogEngine: Initializing Engine...
+[2021.03.13-08.21.02:623][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.13-08.21.02:625][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.13-08.21.02:970][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.13-08.21.03:002][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.13-08.21.03:025][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.13-08.21.03:039][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.13-08.21.03:040][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.13-08.21.03:040][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.13-08.21.03:040][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.13-08.21.03:041][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.13-08.21.03:041][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.13-08.21.03:098][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.13-08.21.03:098][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.13-08.21.03:390][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.03.13-08.21.03:396][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.13-08.21.03:402][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.13-08.21.03:402][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.13-08.21.03:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.13-08.21.03:405][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.13-08.21.03:405][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.13-08.21.03:407][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.13-08.21.03:407][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.13-08.21.03:407][  0]LogInit: FAudioDevice initialized.
+[2021.03.13-08.21.03:408][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.13-08.21.03:408][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.13-08.21.05:312][  0]LogDerivedDataCache: Saved boot cache 1.90s 79MB C:/Users/moore/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.13-08.21.05:313][  0]LogInit: Texture streaming: Enabled
+[2021.03.13-08.21.05:348][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.03.13-08.21.05:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.13-08.21.05:362][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.13-08.21.05:382][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.13-08.21.05:471][  0]LogInit: Transaction tracking system initialized
+[2021.03.13-08.21.05:548][  0]BlueprintLog: New page: Editor Load
+[2021.03.13-08.21.05:783][  0]LocalizationService: Localization service is disabled
+[2021.03.13-08.21.05:850][  0]TimingProfiler: Initialize
+[2021.03.13-08.21.05:851][  0]TimingProfiler: OnSessionChanged
+[2021.03.13-08.21.05:851][  0]LoadingProfiler: Initialize
+[2021.03.13-08.21.05:851][  0]LoadingProfiler: OnSessionChanged
+[2021.03.13-08.21.05:851][  0]NetworkingProfiler: Initialize
+[2021.03.13-08.21.05:851][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.13-08.21.05:851][  0]MemoryProfiler: Initialize
+[2021.03.13-08.21.05:851][  0]MemoryProfiler: OnSessionChanged
+[2021.03.13-08.21.06:071][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'EditorMaterials/Cross_Mat' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2021.03.13-08.21.06:093][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.13-08.21.06:094][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.13-08.21.06:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Content/' took 0.19s
+[2021.03.13-08.21.06:633][  0]SourceControl: Source control is disabled
+[2021.03.13-08.21.06:633][  0]LogUnrealEdMisc: Loading editor; pre map load, took 36.658
+[2021.03.13-08.21.06:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/moore/OneDrive/Documents/GitHub/DungeonCrawlerGame/DungeonCrawler/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-08.21.06:634][  0]LightingResults: New page: Lighting Build
+[2021.03.13-08.21.06:637][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-08.21.06:637][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-08.21.06:638][  0]MapCheck: New page: Map Check
+[2021.03.13-08.21.06:638][  0]LightingResults: New page: Lighting Build
+[2021.03.13-08.21.09:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.03.13-08.21.13:521][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.13-08.21.16:407][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.886 s
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: 
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: Stack: 
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc1718a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc048b4c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbfc15d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbfd0c59 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbfccc16 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:407][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbfccacf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbc854f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcf48068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbcca938c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbccabda88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbd8d87e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbd8d31282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbd8d2dfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbcb2f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec16fa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbef8cfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec0104 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec1bfb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbefa20c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc0890d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeb42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf397d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbed1d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf366da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:408][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeef776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc088d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeb42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf397d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbed1d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf366da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeef776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc088d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeb42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf397d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:409][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbed1d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf366da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeef776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc088d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeb42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf3b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf39f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf397d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbed1d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbf366da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbec3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeef776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc088d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdc087f30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcbd1acb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcbc17df UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcbaac2f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:410][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbd42a427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcf39759 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbcf39568 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbd466ef0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbbd425f04 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b5250fbb UE4Editor.exe!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b525121a UE4Editor.exe!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b526527d UE4Editor.exe!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7b5267faa UE4Editor.exe!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc25007034 KERNEL32.DLL!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc2635d241 ntdll.dll!UnknownFunction []
+[2021.03.13-08.21.16:411][  0]LogOutputDevice: Error: 
